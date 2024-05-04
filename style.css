@@ -1,0 +1,68 @@
+h1 {
+  color: rgb(36, 36, 114);
+  background-color: rgb(133, 133, 209);
+  border-radius: 30px;
+  border: 1px solid red;
+}
+
+h3 {
+  color: green;
+}
+
+h4 {
+  color: green;
+  background-color: yellow;
+}
+
+h4 {
+  color: green;
+  background-color: yellow;
+}
+
+h5 {
+  color: green;
+}
+
+input {
+  width: 100%;
+}
+
+button {
+  color: aliceblue;
+  background-color: rgb(60, 139, 170);
+  border: none;
+  width: 170px;
+}
+
+.yashil {
+  color: aliceblue;
+  background-color: green;
+}
+
+.kok {
+  color: aliceblue;
+  background-color: blue;
+}
+
+.qizil {
+  color: aliceblue;
+  background-color: red;
+}
+
+.qora {
+  color: aliceblue;
+  background-color: black;
+}
+
+table {
+  width: 1090px;
+  border-collapse: collapse;
+}
+
+.sariq {
+  background-color: yellow;
+}
+
+.qisil {
+  color: rgb(179, 31, 31);
+}
